@@ -1,3 +1,59 @@
 <resources>
-    <string name="app_name">Uber_Eats</string>
+    <string name="app_name">Uber Eats (MBJ)</string>
+    <string name="add_to_cart">Ajouter au panier</string>
+    <string name="popular_dishes">Plats populaires</string>
+    <string name="total_fees_approx">Frais incl. env. %1$.2f€</string>
+    <string name="total_fees_label">Frais : %1$.2f€</string>
+    
+    <string name="nav_home">Accueil</string>
+    <string name="nav_browse">Explorer</string>
+    <string name="nav_baskets">Paniers</string>
+    <string name="nav_account">Compte</string>
+    <string name="view_cart">Voir le panier</string>
+
+    <string name="search">Rechercher</string>
+    <string name="pickup">À emporter</string>
+    <string name="uberone">UberOne</string>
+    <string name="groceries">Courses</string>
+    <string name="orders">Commandes</string>
+    <string name="section_restaurants">Restaurants</string>
+    <string name="section_groceries">Courses</string>
+    <string name="compare">Comparer</string>
+    <string name="compare_with_count">Comparer (%1$d/2)</string>
+    <string name="express">Express</string>
+    <string name="delivery_to">Livraison à : %1$s</string>
+    <string name="gps_warning">Attention ! Vous êtes loin de cette adresse.</string>
+    <string name="fix">Corriger</string>
+    <string name="brand">Enseigne</string>
+
+    <!-- RestaurantDetailScreen / Components -->
+    <string name="back">Retour</string>
+    <string name="details">Détails</string>
+    <string name="total_starts_from">Le total commence à env. %1$.2f€</string>
+    <string name="total_with_price">Total : %1$.2f€</string>
+
+    <!-- CheckoutFlowScreen -->
+    <string name="checkout">Paiement</string>
+    <string name="delivery_address">Adresse de livraison</string>
+    <string name="your_order">Votre commande</string>
+    <string name="payment_method">Moyen de paiement</string>
+    <string name="change">Modifier</string>
+    <string name="payment_summary">Récapitulatif de paiement</string>
+    <string name="subtotal">Sous-total</string>
+    <string name="fees_for">Frais (%1$s)</string>
+    <string name="total">Total</string>
+    <string name="pay_now">Payer maintenant</string>
+
+    <!-- ComparisonScreen -->
+    <string name="quick_comparator">Comparateur Rapide</string>
+    <string name="rating">Note</string>
+    <string name="delivery_time">Temps de livraison</string>
+    <string name="total_fees">Frais totaux</string>
+    <string name="starts_from">À partir de</string>
+    <string name="compare_menus">Comparer les menus</string>
+    <string name="insight_budget_1">Conseil : %1$s est actuellement plus économique pour un repas.</string>
+    <string name="insight_budget_2">Conseil : %1$s est actuellement plus économique pour un repas.</string>
+    <string name="insight_speed_1">Conseil : Les prix sont comparables, mais %1$s arrivera probablement plus vite.</string>
+    <string name="insight_speed_2">Conseil : Les prix sont comparables, mais %1$s arrivera probablement plus vite.</string>
+    <string name="insight_similar">Conseil : Les deux options sont très similaires en termes de prix et de rapidité.</string>
 </resources>
